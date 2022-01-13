@@ -60,7 +60,7 @@ p{
     font-size: 1.5rem;
     color: hsla(0, 0%, 100%, 0.75);
     line-height: 2.5rem;
-    padding-right:2.5rem;
+    /*padding-right:2.5rem;*/
 }
 
 .about-sedans{
@@ -128,7 +128,6 @@ p{
 
     .sedans{     
         border-radius: 2rem 0 0 2rem;
-        padding-left:6rem;
         
     }
 
@@ -140,7 +139,7 @@ p{
     }
     p{
         margin-top: 2rem;
-        font-size: 2rem;
+        font-size: 2.2rem;
         color: hsla(0, 0%, 100%, 0.75);
         line-height: 4rem;
         padding-right:5rem;
@@ -163,7 +162,6 @@ p{
     }
 
     .suvs{        
-        padding-left:6rem;
         border-radius: 0;
         
     }
@@ -183,7 +181,7 @@ p{
     }
 
     .luxury{  
-        padding-left:6rem;
+       
         border-radius:0 2rem 2rem 0;
         
     }
